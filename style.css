@@ -1,0 +1,52 @@
+*{
+    background-color: #E7F6F2;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+body{
+    max-width: 900px;
+    margin: auto;
+}
+
+h1, p, ul{
+    color: #2C3333;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #395B64;
+}
+
+#CV{
+    font-size: 180%;
+    line-height: 1.5;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.projects{
+    flex-direction: column;
+    margin: 2%;
+    align-items: flex-start;
+}
+
+table{
+    display: inline-block;
+}
+
+hr{
+    background-color: #2C3333;
+    border-color: #2C3333;
+    width: 100%;
+}
+p a{
+    color: #A5C9CA;
+}
+p a:hover{
+    color: rgb(98, 144, 164);
+}
