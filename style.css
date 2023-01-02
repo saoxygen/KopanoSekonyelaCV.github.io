@@ -46,6 +46,7 @@ hr{
 }
 p a{
     color: #A5C9CA;
+    margin: 0 10px 0 0;
 }
 p a:hover{
     color: rgb(98, 144, 164);
